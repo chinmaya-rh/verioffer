@@ -1,0 +1,6 @@
+{
+  "name": "VeriOffer",
+  "description": "AI-Powered Phishing & Fake Offer Inspector with dynamic Scam Threat Index (0–100%), dual-vector forensics, and cyber SOC command dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
